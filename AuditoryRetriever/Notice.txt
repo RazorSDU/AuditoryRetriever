@@ -1,0 +1,26 @@
+NOTICE
+------
+
+This product includes the following third-party libraries:
+
+1. PyAudio
+   - License: MIT License
+   - https://people.csail.mit.edu/hubert/pyaudio/
+
+2. Librosa
+   - License: ISC License
+   - https://librosa.org/
+
+3. Soundfile
+   - License: BSD 3-Clause License
+   - https://pypi.org/project/SoundFile/
+
+4. Psutil
+   - License: BSD 3-Clause License
+   - https://pypi.org/project/psutil/
+
+5. Keyboard
+   - License: MIT License
+   - https://pypi.org/project/keyboard/
+
+Please see the `licenses` directory for the complete license texts.

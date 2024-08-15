@@ -1,0 +1,5 @@
+View -> Terminal
+
+cd C:\Users\Razor\Desktop\EXAMEN\AuditoryRetriever\AuditoryRetriever
+
+.\env1\Scripts\activate

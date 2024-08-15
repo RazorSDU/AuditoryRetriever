@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AuditoryRetriever", "AuditoryRetriever\AuditoryRetriever.pyproj", "{157FEF52-24EF-4E03-AB88-538A759EB272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{157FEF52-24EF-4E03-AB88-538A759EB272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157FEF52-24EF-4E03-AB88-538A759EB272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC2931E-DB8C-4145-9190-A50556A7B385}
+	EndGlobalSection
+EndGlobal
